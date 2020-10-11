@@ -9,6 +9,8 @@
 @media all and (max-width: 440px){
   .card-list {
     grid-template-columns: 0.9fr;
+    column-gap: 0px;
+    row-gap: 20px;
   }
 }
 

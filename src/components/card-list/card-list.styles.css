@@ -5,3 +5,10 @@
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 20px;
 }
+
+@media all and (max-width: 380px) and (min-height: 320px) {
+  .card-list {
+    grid-template-columns: 1fr;
+  }
+}
+

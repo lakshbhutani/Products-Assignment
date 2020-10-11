@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Products-Assignment/static/css/main.380524b7.chunk.css",
+    "main.css": "/Products-Assignment/static/css/main.72addb88.chunk.css",
     "main.js": "/Products-Assignment/static/js/main.e0565627.chunk.js",
     "main.js.map": "/Products-Assignment/static/js/main.e0565627.chunk.js.map",
     "runtime~main.js": "/Products-Assignment/static/js/runtime~main.51c4e82d.js",
@@ -8,9 +8,9 @@
     "static/js/2.39d4c1e1.chunk.js": "/Products-Assignment/static/js/2.39d4c1e1.chunk.js",
     "static/js/2.39d4c1e1.chunk.js.map": "/Products-Assignment/static/js/2.39d4c1e1.chunk.js.map",
     "index.html": "/Products-Assignment/index.html",
-    "precache-manifest.d764dc2301771abee9d177e599bb9ea6.js": "/Products-Assignment/precache-manifest.d764dc2301771abee9d177e599bb9ea6.js",
+    "precache-manifest.60039eb05921b25039f3748089bf05e9.js": "/Products-Assignment/precache-manifest.60039eb05921b25039f3748089bf05e9.js",
     "service-worker.js": "/Products-Assignment/service-worker.js",
-    "static/css/main.380524b7.chunk.css.map": "/Products-Assignment/static/css/main.380524b7.chunk.css.map",
+    "static/css/main.72addb88.chunk.css.map": "/Products-Assignment/static/css/main.72addb88.chunk.css.map",
     "static/media/nykaa_logo.svg": "/Products-Assignment/static/media/nykaa_logo.7ed3f404.svg"
   }
 }

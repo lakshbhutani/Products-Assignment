@@ -6,9 +6,9 @@
   grid-gap: 20px;
 }
 
-@media all and (max-width: 380px) and (min-height: 320px) {
+@media all and (max-width: 440px){
   .card-list {
-    grid-template-columns: 1fr;
+    grid-template-columns: 0.9fr;
   }
 }
 

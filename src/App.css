@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+
+.nykaaLogo {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #0ccac4;
+}
+
+.scrollTop {
+  position: fixed; 
+  width: 200px;
+  bottom: 20px;
+  height: 20px;
+  /* left: 600px; */
+  z-index: 1000;
+  cursor: pointer;
+  animation: fadeIn 0.3s;
+  transition: opacity 0.4s;
+  opacity: 0.5;
+}
+
+.scrollTop:hover{
+  opacity: 1;
+}
